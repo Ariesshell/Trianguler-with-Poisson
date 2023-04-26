@@ -1,0 +1,53 @@
+﻿  main.cpp
+G:\Engine Project\Triangular with Poisson\amcomdef.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+G:\Engine Project\Triangular with Poisson\main.cpp(5,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+G:\Engine Project\Triangular with Poisson\main.cpp(5,1): message : 之前在命令行上声明的“_CRT_SECURE_NO_WARNINGS”
+G:\Engine Project\Triangular with Poisson\main.cpp(41,45): warning C4244: “参数”: 从“_Ty2”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Ty2=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+G:\Engine Project\Triangular with Poisson\main.cpp(41,24): warning C4244: “参数”: 从“_Ty1”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Ty1=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+G:\Engine Project\Triangular with Poisson\main.cpp(54,49): warning C4244: “参数”: 从“MFloat”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+G:\Engine Project\Triangular with Poisson\main.cpp(54,34): warning C4244: “参数”: 从“MFloat”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+G:\Engine Project\Triangular with Poisson\main.cpp(56,49): warning C4244: “参数”: 从“MFloat”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+G:\Engine Project\Triangular with Poisson\main.cpp(56,34): warning C4244: “参数”: 从“MFloat”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+G:\Engine Project\Triangular with Poisson\main.cpp(58,49): warning C4244: “参数”: 从“MFloat”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+G:\Engine Project\Triangular with Poisson\main.cpp(58,34): warning C4244: “参数”: 从“MFloat”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  Triangular with Poisson.vcxproj -> G:\Engine Project\Triangular with Poisson\x64\Debug\Triangular with Poisson.exe
